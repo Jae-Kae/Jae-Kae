@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Jae-Kae
-- 👀 I’m interested in ...music, movies, gardening & biking/
-- 🌱 I’m currently learning ... how to code
-- 💞️ I’m looking to collaborate on ... a beginner friendly project
-- 
+- 👀 I’m interested in ...music, coding, movies, gardening & biking
+- 🌱 I’m a graduate of Concordia University's Full Stack Web Development diploma program
+ 
 
 <!---
 Jae-Kae/Jae-Kae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
