@@ -1,5 +1,5 @@
-Alt-H1 - 👋 Hi, I’m @Jae-Kae
-- 👀 I’m interested in ...music, coding, movies, gardening & biking
+# Hi, I’m Janette King
+- 👀 I’m interested in ...web development, music, movies, gardening & biking
 - 🌱 I’m a graduate of Concordia University's Full Stack Web Development diploma program
  
 
