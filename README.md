@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jae-Kae
+Alt-H1 - 👋 Hi, I’m @Jae-Kae
 - 👀 I’m interested in ...music, coding, movies, gardening & biking
 - 🌱 I’m a graduate of Concordia University's Full Stack Web Development diploma program
  
