@@ -1,16 +1,16 @@
 ## Hi there! 👋🏽
 * 👾 I'm currently developing my personal project: Match Me
-* 
+ 
 * 🔍 Looking for full-time or part-time employment in frontend or backend Web Development
-* 
+ 
 * 👀 I’m interested in ...full-stack web development, music, movies, gardening & biking
-* 
+
 * 🌱 I’m a graduate of Concordia University's Full Stack Web Development diploma program
-* 
+ 
 * 💡 Fun fact: I make music and lots of it! [Check it out on YouTube](https://youtu.be/WePRzklNc1c)
-* 
+ 
 * 📭 Best way to reach me: Email - janetteking96@gmail.com | Twitter - [@janetteking](https://twitter.com/janetteking) | Instagram - [@janette.king](https://www.instagram.com/janette.king/)
-* 
+ 
 * 😊 Pronouns: She/Her
  
 
