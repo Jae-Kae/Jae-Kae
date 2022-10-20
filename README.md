@@ -9,7 +9,7 @@
  
 * 💡 Fun fact: I make music and lots of it! [Check it out on YouTube](https://youtu.be/WePRzklNc1c)
  
-* 📭 Best way to reach me: Email - janetteking96@gmail.com | Twitter - [@janetteking](https://twitter.com/janetteking)
+* 📭 Best way to reach me: Email - janetteking@proton.me | Twitter - [@janetteking](https://twitter.com/janetteking)
  
 * 😊 Pronouns: She/Her
  
