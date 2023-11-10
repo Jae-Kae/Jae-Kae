@@ -1,7 +1,5 @@
 ## Hi there! 👋🏽
-* 👾 I'm currently developing my personal project: Match Me
- 
-* 🔍 Looking for full-time or part-time employment in frontend or backend Web Development
+* 👾 I'm a web developer for [Haply Robotics](https://www.haply.co)
  
 * 👀 I’m interested in ...full-stack web development, music, movies, gardening & biking
 
