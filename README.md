@@ -1,5 +1,5 @@
 ## Hi there! 👋🏽
-* 👾 I'm a web developer for [Haply Robotics](https://www.haply.co)
+* 👾 I'm a freelance web developer
  
 * 👀 I’m interested in ...full-stack web development, music, movies, gardening & biking
 
