@@ -5,7 +5,7 @@
 
 * 🌱 I’m a graduate of Concordia University's Full Stack Web Development diploma program
  
-* 💡 Fun fact: I make music and lots of it! [Check it out on YouTube]([https://youtu.be/WePRzklNc1c](https://www.youtube.com/watch?v=m99bW0duI6M))
+* 💡 Fun fact: I make music and lots of it! [Check it out on YouTube]([https://www.youtube.com/watch?v=m99bW0duI6M])
  
 * 📭 Best way to reach me: Email - janetteking@proton.me 
  
